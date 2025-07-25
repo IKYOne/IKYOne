@@ -22,7 +22,7 @@
 
 ### 🎌 Anime Waifu Support
 <p align="center">
-  <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>
+  (<img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>)
 </p>
 
 ---
