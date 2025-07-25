@@ -23,4 +23,8 @@
 <p align="center">
   <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>
 </p>
+
+---
+<p align="center">Terima kasih sudah berkunjung! 🚀</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
