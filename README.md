@@ -24,11 +24,12 @@
   <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>
 </p>
 
-<p aling="center">
-  <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px" />
-</p>
+---
+
+![Waifu](https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif)
 
 ---
+
 <p align="center">Terima kasih sudah berkunjung! 🚀</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
