@@ -24,7 +24,7 @@
   <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>
 </p>
 
-<p>
+<p aling="center">
   <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px" />
 </p>
 
