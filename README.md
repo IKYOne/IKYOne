@@ -19,14 +19,11 @@
 [![](https://visitcount.itsvg.in/api?id=IKYOne&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ---
+
 ### 🎌 Anime Waifu Support
 <p align="center">
   <img src="https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif" width="250px"/>
 </p>
-
----
-
-![Waifu](https://media.tenor.com/KkbmCd4TVvYAAAAC/anime-waifu.gif)
 
 ---
 
